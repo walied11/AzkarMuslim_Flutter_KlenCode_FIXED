@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "quranText": {
+    "name": "Tanzil Quran Text, Uthmani v1.1",
+    "website": "https://tanzil.net",
+    "license": "CC BY 3.0",
+    "note": "Retain attribution and comply with the source license when redistributing the Quran text."
+  },
+  "quranFont": {
+    "name": "Amiri Quran",
+    "licenseFile": "FONT_LICENSE_OFL.txt",
+    "license": "SIL Open Font License"
+  },
+  "storiesAndGuides": {
+    "note": "Educational summaries and guide text are provided as app content. Verify religious references with trusted scholarship before public release."
+  }
+}
