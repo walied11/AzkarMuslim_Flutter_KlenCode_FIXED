@@ -1,0 +1,9 @@
+{
+  "latest_version_code": 14,
+  "latest_version_name": "1.0.14",
+  "update_title": "🚀 تحديث جديد متاح",
+  "update_message": "من فضلك حدّث التطبيق إلى أحدث إصدار للاستمرار في الاستخدام.",
+  "update_url": "https://YOUR-DIRECT-APK-URL-HERE",
+  "update_force": true,
+  "min_version_code": 14
+}
